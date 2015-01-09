@@ -1,13 +1,9 @@
 ###################################
 # hosts (google,facebook,twitter) #
 # author: xiaobeicn               #
+# time: 2015-01-09                #
 ###################################
- :two: 
- :zero: 
- :one: 
- :five:
- :one:
- :nine:
+
 
 #sublime
 50.116.34.243   sublime.wbond.net   # sublime package
