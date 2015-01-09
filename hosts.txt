@@ -2,6 +2,12 @@
 # hosts (google,facebook,twitter) #
 # author: xiaobeicn               #
 ###################################
+ :two: 
+ :zero: 
+ :one: 
+ :five:
+ :one:
+ :nine:
 
 #sublime
 50.116.34.243   sublime.wbond.net   # sublime package
