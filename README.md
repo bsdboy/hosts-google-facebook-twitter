@@ -4,6 +4,8 @@
 
 想要就 [点`all` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/hosts-all.txt)
 
+想要就 [点`google` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/google.txt)
+
 想要就 [点`facebook` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/facebook.txt)
 
 想要就 [点`twitter` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/twitter.txt)
