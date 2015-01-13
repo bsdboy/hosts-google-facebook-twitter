@@ -9,3 +9,8 @@
 > 助你访问 google、facebook、twitter、youtube、wikipage、dropbox :smile:
 
 想要就 [点我 :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/hosts-all.txt)
+
+
+## 如果失效还可以使用这个
+
+https://github.com/comeforu2012/truth/wiki
