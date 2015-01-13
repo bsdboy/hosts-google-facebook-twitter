@@ -1,0 +1,46 @@
+#facebook hosts 2015
+173.252.120.9 facebook.com
+173.252.120.9 www.facebook.com
+185.60.216.7 touch.facebook.com
+185.60.216.7 apps.facebook.com
+185.60.216.7 upload.facebook.com
+185.60.216.7 secure.facebook.com
+185.60.216.7 zh-cn.facebook.com
+185.60.216.7 login.facebook.com
+185.60.216.7 m.facebook.com
+185.60.216.7 graph.facebook.com
+185.60.216.7 ssl.facebook.com
+185.60.216.7 api.facebook.com
+185.60.216.7 attachments.facebook.com
+185.60.216.7 developers.facebook.com
+
+184.28.188.154  s-static.ak.facebook.com
+184.28.188.154  profile.ak.facebook.com
+184.28.188.154 static.ak.facebook.com
+184.28.188.154 b.static.ak.facebook.com
+
+184.28.188.153 act.channel.facebook.com
+184.28.188.153 0-act.channel.facebook.com
+184.28.188.153 1-act.channel.facebook.com
+184.28.188.153 2-act.channel.facebook.com
+184.28.188.153 3-act.channel.facebook.com
+184.28.188.153 4-act.channel.facebook.com
+184.28.188.153 5-act.channel.facebook.com
+184.28.188.153 6-act.channel.facebook.com
+69.171.246.7 beta-chat-01-05-ash3.facebook.com
+
+173.252.120.6 fbcdn.net
+165.254.42.232 profile.ak.fbcdn.net
+184.28.188.240 vthumb.ak.fbcdn.net
+184.28.188.152 photos-a.ak.fbcdn.net
+184.28.188.154 photos-b.ak.fbcdn.net
+184.28.188.171 photos-c.ak.fbcdn.net
+184.28.188.171 photos-d.ak.fbcdn.net
+184.28.188.153 photos-e.ak.fbcdn.net
+184.28.188.153 photos-f.ak.fbcdn.net
+184.28.188.171 photos-g.ak.fbcdn.net
+184.28.188.146 photos-h.ak.fbcdn.net
+184.28.188.171 creative.ak.fbcdn.net
+184.28.188.153 external.ak.fbcdn.net
+184.28.188.153 b.static.ak.fbcdn.net
+184.28.188.153 static.ak.fbcdn.net
