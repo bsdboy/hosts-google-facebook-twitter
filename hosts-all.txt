@@ -9,13 +9,8 @@
 #######################################################################
 
 
-# sublime
-50.116.34.243	sublime.wbond.net	# sublime package
-
-#gist START
-192.30.252.140 gist.github.com
-23.235.43.133 gist-assets.github.com
-#gist END
+# sublime package
+50.116.34.243	sublime.wbond.net
 
 #Google Services START
 #GoogleAccounts↓
