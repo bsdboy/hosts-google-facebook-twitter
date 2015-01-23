@@ -1,7 +1,6 @@
 #Google Services START
 #GoogleAccounts↓
-216.58.216.45   accounts.google.com
-216.58.216.45   accounts.l.google.com
+64.233.189.105   accounts.google.com accounts.google.com.hk 
 #GoogleAccounts↑
 #www.google.com↓
 216.58.220.16   google.com
@@ -1627,7 +1626,6 @@
 216.58.220.16   translate.google.cn
 216.58.220.16   www.google.cn
 216.58.220.16   www.gstatic.cn
-216.58.220.16   accounts.google.com.hk
 216.58.220.16   blogsearch.google.com.hk
 216.58.220.16   books.google.com.hk
 216.58.220.16   clients1.google.com.hk
@@ -1649,7 +1647,6 @@
 216.58.220.16   wenda.google.com.hk
 216.58.220.16   google.com.hk
 216.58.220.16   www.google.com.hk
-216.58.220.16   accounts.google.com.tw
 216.58.220.16   blogsearch.google.com.tw
 216.58.220.16   books.google.com.tw
 216.58.220.16   clients1.google.com.tw
@@ -1669,7 +1666,6 @@
 216.58.220.16   toolbarqueries.google.com.tw
 216.58.220.16   translate.google.com.tw
 216.58.220.16   www.google.com.tw
-216.58.220.16   accounts.google.com.sg
 216.58.220.16   blogsearch.google.com.sg
 216.58.220.16   books.google.com.sg
 216.58.220.16   clients1.google.com.sg
@@ -1689,7 +1685,6 @@
 216.58.220.16   toolbarqueries.google.com.sg
 216.58.220.16   translate.google.com.sg
 216.58.220.16   www.google.com.sg
-216.58.220.16   accounts.google.co.jp
 216.58.220.16   blogsearch.google.co.jp
 216.58.220.16   books.google.co.jp
 216.58.220.16   clients1.google.co.jp
