@@ -10,6 +10,8 @@
 
 想要就 [点`twitter` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/twitter.txt)
 
+想要就 [点`youtube` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/youtube.txt)
+
 想要就 [点`github` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/github.txt)
 
 ---
