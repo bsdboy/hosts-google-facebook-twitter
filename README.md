@@ -1,6 +1,6 @@
 ## hosts-google、facebook、twitter、youtube、wikipage、dropbox、gist...
 
-> 助你访问 google、facebook、twitter、youtube、wikipage、dropbox :smile:
+> 助你访问 google、facebook、twitter :smile:
 
 想要就 [点`all` :+1: ](https://github.com/xiaobeicn/hosts-google-facebook-twitter/blob/master/hosts-all.txt)
 
