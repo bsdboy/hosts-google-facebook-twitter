@@ -16,6 +16,12 @@
 
 ---
 
+## 强烈推荐 科学上网利器 Shadowsocks
+
+马上[试试](https://portal.shadowsocks.com/aff.php?aff=810)
+
+---
+
 > ## 如果失效还可以使用这个
 > 
 > https://github.com/comeforu2012/truth/wiki
