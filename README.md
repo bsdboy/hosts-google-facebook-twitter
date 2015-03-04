@@ -1,4 +1,4 @@
-## hosts-google、facebook、twitter、youtube、wikipage、dropbox、gist...
+## hosts-google、facebook、twitter
 
 > 助你访问 google、facebook、twitter :smile:
 
